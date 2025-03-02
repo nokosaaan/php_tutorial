@@ -10,7 +10,7 @@
 */
 echo "A $color $fruit\n"; // A
 
-include '5-8.php';
+include '5-008.php';
 
 echo "A $color $fruit\n"; // A green apple
 

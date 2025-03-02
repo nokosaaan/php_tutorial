@@ -12,3 +12,4 @@
 
     // PHP終了タグを書かずに、ここでスクリプトを終了
     //実行する場合は $ php (ファイル名)で結果を表示
+    //参考:https://www.php.net/manual/ja/features.commandline.usage.php
